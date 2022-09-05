@@ -1,0 +1,12 @@
+--new pool
+
+
+--new user 
+--claim reward 
+--unstake
+
+--ban user 
+--freeze user
+
+--use to store buy 
+--use to p2p
